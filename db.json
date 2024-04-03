@@ -27,7 +27,7 @@
     "name": "Charlie",
     "age": 23,
     "address": {
-      "street": Null,
+      "street": "NULL",
       "city": "Sometown",
       "state": "TX",
       "zipcode": "67890"
